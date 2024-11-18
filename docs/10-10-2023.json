@@ -1,0 +1,107 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "10-10-2023",
+            "dia": "Martes",
+            "url": "http://www.cubadebate.cu/noticias/2023/10/10/une-se-preven-afectaciones-para-esta-jornada-por-deficit-de-capacidad-de-generacion/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 2226,
+            "demanda_max": 2950,
+            "deficit": 724,
+            "pronostico": {
+                "afectacion": 794
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 2000,
+                "demanda": 2270,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 290
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 416,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Energas Boca de Jaruco"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": "no hay especificación",
+                    "razon": "avería",
+                    "mw_afectados": 808
+                },
+                {
+                    "cantidad": "no hay especificación",
+                    "razon": "mantenimiento",
+                    "mw_afectados": 130
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "se estima la entrada de motores de generación distribuida",
+                    "razon": "se encuentran pasados de mantenimiento y se autoriza su uso",
+                    "cantidad_mw": 22
+                },
+                {
+                    "desc": "se estima la entrada de dos motores en la Generación Móvil de Melones",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 34
+                },
+                {
+                    "desc": "se estima la entrada de la unidad 2 de la CTE Santa Cruz",
+                    "razon": "en proceso de arranque",
+                    "cantidad_mw": 70
+                },
+                {
+                    "desc": "se estima la recuperación de motores de generación distribuida",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 100
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 932,
+            "hora": "20:10",
+            "desc": "coincidente con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "se afectó el servicio por déficit de capacidad de generación en el SEN",
+            "horas": 24,
+            "hora_rest": "0"
+        }
+    }
+}

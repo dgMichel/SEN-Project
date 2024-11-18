@@ -1,0 +1,12 @@
+Título: Unión Eléctrica no prevé afectaciones por déficit de capacidad de generación este domingo
+Este sábado no se afectó el servicio por déficit de capacidad de generación en el Sistema. La disponibilidad del SEN a las 07:00 horas es de 2450 MW y la demanda 1800 MW, con todo el sistema con servicio. No se estima afectación durante el horario diurno.
+
+Se encuentran fuera de servicio por avería la unidad 1 de la CTE Santa Cruz, la unidad 3 de la CTE Cienfuegos (en proceso de arranque), la unidad 5 de la CTE Renté y la unidad 2 de la CTE Felton. Se encuentra en mantenimiento la unidad 5 de la CTE Mariel y la unidad 2 de la CTE Santa Cruz.
+
+Se mantienen las limitaciones en la generación térmica (348 MW).
+
+En la generación distribuida, están indisponibles por avería 845 MW y en mantenimiento 130 MW.
+
+Para el pico se estima la entrada de 170 MW en la generación distribuida en motores que se encuentran pasado de horas de mantenimiento y se autoriza su uso, la entrada de la unidad 3 de la CTE Cienfuegos con 130 MW y la entrada de 8 motores en la Generación Móvil de Melones con 130 MW.
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2880 MW y una demanda máxima de 2650 MW, para una reserva de 230 MW, por lo que de mantenerse las condiciones previstas no se pronostican afectaciones al servicio en este horario.

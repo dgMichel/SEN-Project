@@ -1,0 +1,16 @@
+Título: La Unión Eléctrica prevé una afectación de 137 MW para pico nocturno de este viernes
+La Unión Eléctrica estima para la hora pico nocturna de este viernes una disponibilidad de 2613 MW y una demanda máxima de 2680 MW, para un déficit de 67 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 137 MW en este horario.
+
+La disponibilidad del SEN a las 07:00 horas es de 2400 MW y la demanda 2015 MW, con todo el sistema con servicio. No se estima afectación durante el horario diurno.
+
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 17:22 horas de la tarde hasta las 19:47 horas de la noche.
+
+La máxima afectación en el horario de la noche fue de 124 MW, a las 19:10 horas coincidiendo con la hora pico.
+
+Se encuentran fuera de servicio por avería la unidad 5 de la CTE Nuevitas, la unidad 5 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentra en mantenimiento las unidades 5 y 6 de la CTE Mariel y la unidad 2 de la CTE Santa Cruz.
+
+Se mantienen las limitaciones en la generación térmica (401 MW).
+
+En la generación distribuida, están indisponibles por avería 866 MW y en mantenimiento 134 MW.
+
+Para el pico se estima la entrada de 133 MW en la generación distribuida en motores que se encuentran en mantenimiento y se autoriza su uso, la entrada de 2 motores en la CDE Moa (30 MW) y la recuperación de 50 MW en motores de Generación Distribuida.

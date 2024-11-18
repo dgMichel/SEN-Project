@@ -1,0 +1,102 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "09-10-2023",
+            "dia": "Lunes",
+            "url": "http://www.cubadebate.cu/noticias/2023/10/09/la-union-electrica-estima-una-afectacion-de-810-mw-para-el-horario-pico-nocturno/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 2260,
+            "demanda_max": 3000,
+            "deficit": 740,
+            "pronostico": {
+                "afectacion": 810
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 2050,
+                "demanda": 2340,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 343
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 492,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 1",
+                        "CTE": "Santa Cruz"
+                    },
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Energas Boca de Jaruco"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": "no hay especificación",
+                    "razon": "avería",
+                    "mw_afectados": 837 
+                },
+                {
+                    "cantidad": "no hay especificación",
+                    "razon": "mantenimiento",
+                    "mw_afectados": 130
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "se estima la entrada de motores de generación distribuida",
+                    "razon": "se encuentran pasados de mantenimiento y se autoriza su uso",
+                    "cantidad_mw": 15
+                },
+                {
+                    "desc": "se estima la entrada de tres motores en la Generación Móvil de Melones",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 45
+                },
+                {
+                    "desc": "se estima la recuperación de motores de generación distribuida",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 150
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 807,
+            "hora": "20:20",
+            "desc": "coincidente con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "se afectó el servicio por déficit de capacidad de generación en el SEN",
+            "horas": 13,
+            "hora_rest": "0"
+        }
+    }
+}

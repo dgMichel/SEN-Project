@@ -1,0 +1,124 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "11-10-2023",
+            "dia": "Miércoles",
+            "url": "http://www.cubadebate.cu/noticias/2023/10/11/union-electrica-pronostica-afectacion-de-973-mw-para-pico-nocturno-de-este-miercoles/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 2097,
+            "demanda_max": 3000,
+            "deficit": 903,
+            "pronostico": {
+                "afectacion": 973
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 2000,
+                "demanda": 2520,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 540
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 353,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidades 3",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidades 5",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidades 6",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidades 5",
+                        "CTE": "Mariel"
+                    },{
+                        "nombre": "Unidades 6",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Energas Boca de Jaruco"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": "no hay especificación",
+                    "razon": "avería",
+                    "mw_afectados": 835
+                },
+                {
+                    "cantidad": "no hay especificación",
+                    "razon": "mantenimiento",
+                    "mw_afectados": 134
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "se estima la entrada de motores de generación distribuida",
+                    "razon": "se encuentran pasados de mantenimiento y se autoriza su uso",
+                    "cantidad_mw": 17
+                },
+                {
+                    "desc": "se estima la entrada de dos motores en la Generación Móvil de Melones",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 34
+                },
+                {
+                    "desc": "se estima la entrada en la Generación Móvil de Regla",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 42
+                },
+                {
+                    "desc": "se estima la recuperación de motores de generación distribuida",
+                    "razon": "fuera por combustible",
+                    "cantidad_mw": 200
+                },
+                {
+                    "desc": "se estima la salida en la CDE Mariel",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 130
+                },
+                {
+                    "desc": "se estima la salida en la Generación Móvil de Mariel ",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 66
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 972,
+            "hora": "19:00",
+            "desc": "no hay especificación"
+        },
+        "dia_anterior": {
+            "desc": "se afectó el servicio por déficit de capacidad de generación en el SEN",
+            "horas": 24,
+            "hora_rest": "0"
+        }
+    }
+}

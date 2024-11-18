@@ -1,0 +1,111 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "17-10-2023",
+            "dia": "Martes",
+            "url": "http://www.cubadebate.cu/noticias/2023/10/17/union-electrica-pronostica-una-afectacion-de-375-mw-para-el-horario-pico-nocturno-de-este-martes/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 2575,
+            "demanda_max": 2880,
+            "deficit": 305,
+            "pronostico": {
+                "afectacion": 375
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 2260,
+                "demanda": 2080,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 0
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 423,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Nuevitas"
+                    },
+                    {
+                        "nombre": "Unidad 3",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 6",
+                        "CTE": "Mariel"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": "no hay especificación",
+                    "razon": "avería",
+                    "mw_afectados": 889
+                },
+                {
+                    "cantidad": "no hay especificación",
+                    "razon": "mantenimiento",
+                    "mw_afectados": 143
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "se estima la entrada de la unidad 3 de la CTE Rente",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 60
+                },
+                {
+                    "desc": "se estima el completamiento de la unidad 4 de la CTE Cienfuegos",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 55
+                },
+                {
+                    "desc": "se estima la entrada de motores de generación distribuida",
+                    "razon": "se encuentran en mantenimiento y se autoriza su uso",
+                    "cantidad_mw": 100
+                },
+                {
+                    "desc": "se estima la recuperación en el emplazamiento de Moa",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 100
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 0,
+            "hora": "0",
+            "desc": "0"
+        },
+        "dia_anterior": {
+            "desc": "se afectó el servicio por déficit de capacidad de generación en el SEN",
+            "horas": 12,
+            "hora_rest": "21:24"
+        }
+    }
+}

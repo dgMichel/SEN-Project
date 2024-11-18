@@ -1,0 +1,15 @@
+Título: Unión Eléctrica pronostica una afectación de 375 MW para el horario pico nocturno de este martes
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 09:45 horas de la mañana hasta las 21:24 horas de la noche de ayer.
+La máxima afectación en el horario de la noche fue de 590 MW, a las 18:50 horas no coincidiendo con la hora pico.
+
+La disponibilidad del Sistema Eléctrico Nacional a las 07:00 horas es de 2260 MW y la demanda 2080 MW, con todo el sistema con servicio. No se estima afectación durante el horario diurno.
+
+Se encuentran fuera de servicio por avería la unidad 5 de la CTE Nuevitas, las unidades 3 y 5 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentra en mantenimiento las unidades 5 y 6 de la CTE Mariel.
+
+Se mantienen las limitaciones en la generación térmica (423 MW).
+
+    En la generación distribuida, están indisponibles por avería 889 MW y en mantenimiento 143 MW.
+
+Para el pico se estima la entrada de la unidad 3 de la CTE Rente con 60 MW, el completamiento de la unidad 4 de la CTE Cienfuegos (55 MW), la entrada de 100 MW en la generación distribuida en motores que se encuentran en mantenimiento y se autoriza su uso y la recuperación de 100 MW en motores de Generación Distribuida.
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2575 MW y una demanda máxima de 2880 MW, para un déficit de 305 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 375 MW en este horario.

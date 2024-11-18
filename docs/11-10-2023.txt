@@ -1,0 +1,14 @@
+Título:Unión Eléctrica pronostica afectación de 973 MW para pico nocturno de este miércoles
+En el día de ayer se afectó el servicio por déficit de capacidad de generación las 24 horas del día y se ha mantenido la afectación durante toda la madrugada de hoy. La máxima afectación en el horario de la noche fue de 932 MW, a las 20:10 horas coincidiendo con la hora pico.
+
+La disponibilidad del Sistema Eléctrico Nacional a las 07:00 horas es de 2000 MW y la demanda 2520 MW, con 540 MW afectado por déficit de capacidad de generación. Se estima que la afectación se mantenga las 24 horas del día de hoy.
+
+Se encuentran fuera de servicio por avería las unidades 3, 5 y 6 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentra en mantenimiento la unidad 5 y 6 de la CTE Mariel y la unidad 6 de Energas Boca de Jaruco.
+
+Se mantienen las limitaciones en la generación térmica (353 MW).
+
+    En la generación distribuida, están indisponibles por avería 835 MW y en mantenimiento 134 MW.
+
+Para el pico se estima la entrada 17 MW en motores de generación distribuida que están pasados de mantenimiento y se autoriza su uso, la entrada de 2 motores en la Generación Móvil de Melones 34 MW, la entrada de 42 MW en la generación móvil de Regla y la recuperación de 200 MW en motores de generación distribuida que están fuera por combustible, la salida de 130 MW en la CDE Mariel y de 66 MW en la generación móvil de Mariel.
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2097 MW y una demanda máxima de 3000 MW, para un déficit de 903 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 973 MW en este horario.

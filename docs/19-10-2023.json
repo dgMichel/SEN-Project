@@ -1,0 +1,102 @@
+{
+    "sen_info": {
+        "main_info": {
+            "fecha": "19-10-2023",
+            "dia": "Jueves",
+            "url": "http://www.cubadebate.cu/noticias/2023/10/19/une-preve-jornada-diurna-sin-afectacion-y-baja-reserva-en-el-sistema-para-el-horario-pico/"
+        },
+        "estimacion": {
+            "horario": "pico",
+            "disponibilidad": 2685,
+            "demanda_max": 2650,
+            "deficit": 0,
+            "pronostico": {
+                "afectacion": 0
+            }
+        },
+        "info_horarios": {
+            "mañana": {
+                "disponibilidad": 2450,
+                "demanda": 2035,
+                "totalidad": true
+            },
+            "mediodia": {
+                "pronostico": {
+                    "afectacion": 0
+                }
+            }
+        },
+        "termoelectricas": {
+            "lim_gen_term": 411,
+            "fuera": {
+                "averias": [
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Nuevitas"
+                    },
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Rente"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Felton"
+                    }
+                ],
+                "mantenimiento":[
+                    {
+                        "nombre": "Unidad 5",
+                        "CTE": "Mariel"
+                    },
+                    {
+                        "nombre": "Unidad 2",
+                        "CTE": "Santa Cruz"
+                    }
+                ]
+            }
+        },
+        "centr_gen_distr": {
+            "no_servicio": [
+                {
+                    "cantidad": "no hay especificación",
+                    "razon": "avería",
+                    "mw_afectados": 866
+                },
+                {
+                    "cantidad": "no hay especificación",
+                    "razon": "mantenimiento",
+                    "mw_afectados": 141
+                }
+            ]
+        },
+        "pico": {
+            "estimacion": [
+                {
+                    "desc": "se estima la entrada de cinco motores en la generación móvil de Melones",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 75
+                },
+                {
+                    "desc": "se estima la entrada de motores de generación distribuida",
+                    "razon": "se encuentran en mantenimiento y se autoriza su uso",
+                    "cantidad_mw": 130
+                },
+                {
+                    "desc": "se estima la recuperación en el emplazamiento de Moa",
+                    "razon": "no hay especificación",
+                    "cantidad_mw": 30
+                }
+            ]
+        },
+        "max_afect_dia": {
+            "cantidad_mw": 124,
+            "hora": "19:10",
+            "desc": "coincidente con la hora pico"
+        },
+        "dia_anterior": {
+            "desc": "se afectó el servicio por déficit de capacidad de generación en el SEN",
+            "horas": 2,
+            "hora_rest": "19:19"
+        }
+    }
+}

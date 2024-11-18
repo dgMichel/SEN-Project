@@ -1,0 +1,12 @@
+Título: UNE prevé afectaciones por déficit de capacidad de generación
+Este jueves fue afectado el servicio por déficit de capacidad de generación las 24 horas del día y quedó restablecido a las 00:21 de la madrugada de este viernes. La máxima afectación en el horario de la noche fue de 490 MW, a las 19:40 horas y coincidiendo con la hora pico.
+
+Este viernes, la disponibilidad del SEN a las 07:00 horas era de 2 500 MW y la demanda, de 2 320 MW, con todo el sistema con servicio. Se estima que a partir de las 10:00 horas de la mañana se comience a afectar el servicio por déficit de capacidad de generación.
+
+Están fuera de servicio por avería la unidad 1 de la CTE Santa Cruz, la unidad 5 de la CTE Rente y la unidad 2 de la CTE Felton. En mantenimiento, las unidades 5 y 6 de la CTE Mariel.
+
+Se mantienen las limitaciones en la generación térmica (357 MW). En la generación distribuida, no están disponibles por avería 858 MW y en mantenimiento, 137 MW.
+
+Para el pico se prevé la entrada de 13 MW en la generación distribuida en motores en mantenimiento y se autoriza su uso, y la unidad 1 de la CHE Robustiano León con 14 MW. Además, la recuperación de 100 MW en motores de generación distribuida.
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2 627 MW y una demanda máxima de 3 000 MW, para un déficit de 373 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 443 MW en ese horario.
