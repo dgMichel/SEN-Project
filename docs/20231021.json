@@ -1,0 +1,38 @@
+{
+    "zones_with_problems": null,
+    "date": "Sabado",
+    "url": "http://www.cubadebate.cu/noticias/2023/10/21/la-une-no-pronostica-afectaciones-durante-el-pico-nocturno-de-este-sabado/",
+    "prediction": {
+        "availability": 2770,
+        "demand_max": 2650,
+        "impact": null,
+        "deficit": null,
+        "backup": 120 
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2600,
+        "demand": 1810,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "ID": "",
+            "broken": [],
+            "maintenance": [],
+            "limitation": 393
+        }
+    ],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 976,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 0,
+        "max": 0,
+        "max_hour": null
+    }
+}

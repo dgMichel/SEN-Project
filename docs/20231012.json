@@ -1,0 +1,38 @@
+{
+    "zones_with_problems": null,
+    "date": "Jueves",
+    "url": "http://www.cubadebate.cu/noticias/2023/10/12/union-electrica-pronostica-afectacion-de-465-mw-para-pico-nocturno/",
+    "prediction": {
+        "availability": 2585,
+        "demand_max": 2980,
+        "impact": null,
+        "deficit": 395,
+        "backup": 0
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2150,
+        "demand": 2365,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "ID": "",
+            "broken": [],
+            "maintenance": [],
+            "limitation": 447
+        }
+    ],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 1018,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 24,
+        "max": 490,
+        "max_hour": "19:40"
+    }
+}

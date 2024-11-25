@@ -1,0 +1,38 @@
+{
+    "zones_with_problems": null,
+    "date": "Mi\u00c3\u00a9rcoles",
+    "url": "http://www.cubadebate.cu/noticias/2023/10/11/union-electrica-pronostica-afectacion-de-973-mw-para-pico-nocturno-de-este-miercoles/",
+    "prediction": {
+        "availability": 2097,
+        "demand_max": 3000,
+        "impact": null,
+        "deficit": 903,
+        "backup": 0
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2000,
+        "demand": 2520,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "ID": "",
+            "broken": [],
+            "maintenance": [],
+            "limitation": 353
+        }
+    ],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 969,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 24,
+        "max": 972,
+        "max_hour": "19:00"
+    }
+}

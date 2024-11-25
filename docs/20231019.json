@@ -1,0 +1,38 @@
+{
+    "zones_with_problems": null,
+    "date": "Jueves",
+    "url": "http://www.cubadebate.cu/noticias/2023/10/19/une-preve-jornada-diurna-sin-afectacion-y-baja-reserva-en-el-sistema-para-el-horario-pico/",
+    "prediction": {
+        "availability": 2685,
+        "demand_max": 2650,
+        "impact": null,
+        "deficit": null,
+        "backup": 0
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2450,
+        "demand": 2035,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "ID": "",
+            "broken": [],
+            "maintenance": [],
+            "limitation": 411
+        }
+    ],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 1009,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 2,
+        "max": 124,
+        "max_hour": "19:10"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "zones_with_problems": null,
+    "date": "Lunes",
+    "url": "http://www.cubadebate.cu/noticias/2023/10/16/la-union-electrica-pronostica-una-afectacion-de-463-mw-para-el-horario-pico-nocturno-de-este-lunes/",
+    "prediction": {
+        "availability": 2557,
+        "demand_max": 2950,
+        "impact": null,
+        "deficit": 393,
+        "backup": 0
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2350,
+        "demand": 2200,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "ID": "",
+            "broken": [],
+            "maintenance": [],
+            "limitation": 404
+        }
+    ],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 1035,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 13,
+        "max": 590,
+        "max_hour": "18:50"
+    }
+}

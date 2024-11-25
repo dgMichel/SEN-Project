@@ -1,0 +1,38 @@
+{
+    "zones_with_problems": null,
+    "date": "Mi\u00c3\u00a9rcoles",
+    "url": "http://www.cubadebate.cu/noticias/2023/10/18/la-union-electrica-estima-una-reserva-de-38-mw-para-la-hora-pico-nocturna/",
+    "prediction": {
+        "availability": 2688,
+        "demand_max": 2650,
+        "impact": null,
+        "deficit": null,
+        "backup": 38
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2500,
+        "demand": 1845,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "ID": "",
+            "broken": [],
+            "maintenance": [],
+            "limitation": 383
+        }
+    ],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 1002,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 2,
+        "max": 63,
+        "max_hour": "18:20"
+    }
+}

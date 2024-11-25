@@ -1,0 +1,38 @@
+{
+    "zones_with_problems": null,
+    "date": "Lunes",
+    "url": "http://www.cubadebate.cu/noticias/2023/10/09/la-union-electrica-estima-una-afectacion-de-810-mw-para-el-horario-pico-nocturno/",
+    "prediction": {
+        "availability": 2260,
+        "demand_max": 3000,
+        "impact": null,
+        "deficit": 740,
+        "backup": null
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2050,
+        "demand": 2340,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "ID": "",
+            "broken": [],
+            "maintenance": [],
+            "limitation": 492
+        }
+    ],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 967,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 13,
+        "max": 807,
+        "max_hour": "20:20"
+    }
+}

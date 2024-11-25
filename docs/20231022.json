@@ -1,0 +1,39 @@
+{
+    "zones_with_problems": null,
+    "date": "Domingo",
+    "url": "http://www.cubadebate.cu/noticias/2023/10/22/union-electrica-no-preve-afectaciones-por-deficit-de-capacidad-de-generacion-este-domingo/",
+    "prediction": {
+        "availability": 2880 ,
+        "demand_max": 2650 ,
+        "impact": null,
+        "deficit": null,
+        "backup": "230 "
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2450,
+        "demand": 1800,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "ID": "",
+            "broken": [],
+            "maintenance": [],
+            "limitation": 348
+        }
+        
+    ],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 975,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 0,
+        "max": 0,
+        "max_hour": null
+    }
+}

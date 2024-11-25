@@ -1,0 +1,38 @@
+{
+    "zones_with_problems": null,
+    "date": "Martes",
+    "url": "http://www.cubadebate.cu/noticias/2023/10/17/union-electrica-pronostica-una-afectacion-de-375-mw-para-el-horario-pico-nocturno-de-este-martes/",
+    "prediction": {
+        "availability": 2575,
+        "demand_max": 2880,
+        "impact": null,
+        "deficit": 305,
+        "backup": 0
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2260,
+        "demand": 2080,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "ID": "",
+            "broken": [],
+            "maintenance": [],
+            "limitation": 423
+        }
+    ],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 1032,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 0,
+        "max": 0,
+        "max_hour": null
+    }
+}

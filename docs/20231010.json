@@ -1,0 +1,38 @@
+{
+    "zones_with_problems": null,
+    "date": "Martes",
+    "url": "http://www.cubadebate.cu/noticias/2023/10/10/une-se-preven-afectaciones-para-esta-jornada-por-deficit-de-capacidad-de-generacion/",
+    "prediction": {
+        "availability": 2226,
+        "demand_max": 2950,
+        "impact": null,
+        "deficit": 724,
+        "backup": 0
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2000,
+        "demand": 2270,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "ID": "",
+            "broken": [],
+            "maintenance": [],
+            "limitation": 416 
+        }
+    ],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 938,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 24,
+        "max": 932,
+        "max_hour": "20:10"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "zones_with_problems": null,
+    "date": "Viernes",
+    "url": "http://www.cubadebate.cu/noticias/2023/10/20/la-union-electrica-preve-una-afectacion-de-137-mw-para-pico-nocturno-de-este-viernes/",
+    "prediction": {
+        "availability": 2613,
+        "demand_max": 2680,
+        "impact": null,
+        "deficit": 67,
+        "backup": 0
+    },
+    "morning_info": {
+        "time": "0700",
+        "availability": 2400,
+        "demand": 2015,
+        "deficit": null
+    },
+    "plants": [
+        {
+            "ID": "",
+            "broken": [],
+            "maintenance": [],
+            "limitation": 401
+        }
+    ],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 1000,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 0,
+        "max": 0,
+        "max_hour": null
+    }
+}
