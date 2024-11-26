@@ -17,10 +17,28 @@
     },
     "plants": [
         {
-            "ID": "",
-            "broken": [],
+            "ID": "CTE Ernesto Guevara",
+            "broken": [1],
+            "maintenance": null,
+            "limitation": 100
+        },
+        {
+            "ID": "CTE Antonio Maceo",
+            "broken": [5],
             "maintenance": [],
-            "limitation": 357
+            "limitation":95
+        },
+        {
+            "ID": "CTE Lidio Ramón Pérez",
+            "broken": [2],
+            "maintenance": null,
+            "limitation": 230
+        },
+        {
+            "ID": "CTE Máximo Gómez",
+            "broken": null,
+            "maintenance": [5,6],
+            "limitation": 190
         }
     ],
     "distributed": {

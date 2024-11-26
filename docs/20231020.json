@@ -17,10 +17,34 @@
     },
     "plants": [
         {
-            "ID": "",
-            "broken": [],
+            "ID": "CTE Diez de Octubre",
+            "broken": [5],
             "maintenance": [],
-            "limitation": 401
+            "limitation": 125
+        },
+        {
+            "ID": "CTE Antonio Maceo",
+            "broken": [5],
+            "maintenance": [],
+            "limitation":95
+        },
+        {
+            "ID": "CTE Lidio Ramón Pérez",
+            "broken": [2],
+            "maintenance": null,
+            "limitation": 230
+        },
+        {
+            "ID": "CTE Máximo Gómez",
+            "broken": null,
+            "maintenance": [5,6],
+            "limitation": 190
+        },
+        {
+            "ID": "CTE Ernesto Guevara",
+            "broken": [],
+            "maintenance": [2],
+            "limitation": 100
         }
     ],
     "distributed": {

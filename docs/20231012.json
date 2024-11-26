@@ -17,10 +17,28 @@
     },
     "plants": [
         {
-            "ID": "",
-            "broken": [],
+            "ID": "CTE Antonio Maceo",
+            "broken": [5],
             "maintenance": [],
-            "limitation": 447
+            "limitation":95
+        },
+        {
+            "ID": "CTE Lidio Ramón Pérez",
+            "broken": [2],
+            "maintenance": null,
+            "limitation": 230
+        },
+        {
+            "ID": "CTE Máximo Gómez",
+            "broken": null,
+            "maintenance": [5,6],
+            "limitation": 190
+        },
+        {
+            "ID": "Energas Boca de Jaruco",
+            "broken": [],
+            "maintenance": [1],
+            "limitation": 320
         }
     ],
     "distributed": {
