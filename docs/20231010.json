@@ -19,7 +19,7 @@
         {
             "ID": "CTE Ernesto Guevara",
             "broken": [2],
-            "maintenance": [],
+            "maintenance": null,
             "limitation": 100
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "ID": "Energas Boca de Jaruco",
-            "broken": [],
+            "broken": null,
             "maintenance": [1],
             "limitation": 320
         }

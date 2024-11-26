@@ -19,13 +19,13 @@
         {
             "ID": "CTE Diez de Octubre",
             "broken": [5],
-            "maintenance": [],
+            "maintenance": null,
             "limitation": 125
         },
         {
             "ID": "CTE Antonio Maceo",
             "broken": [5],
-            "maintenance": [],
+            "maintenance": null,
             "limitation":95
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "ID": "CTE Ernesto Guevara",
-            "broken": [],
+            "broken": null,
             "maintenance": [2],
             "limitation": 100
         }

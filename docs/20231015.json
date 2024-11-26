@@ -19,19 +19,19 @@
         {
             "ID": "CTE Otto Parellada",
             "broken": [7],
-            "maintenance": [],
+            "maintenance": null,
             "limitation": 60
         },
         {
             "ID": "CTE Antonio Maceo",
             "broken": [5],
-            "maintenance": [],
+            "maintenance": null,
             "limitation":95
         },
         {
             "ID": "CTE Diez de Octubre",
             "broken": [5],
-            "maintenance": [],
+            "maintenance": null,
             "limitation": 125
         },
         {

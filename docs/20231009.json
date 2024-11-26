@@ -42,7 +42,7 @@
         },
         {
             "ID": "Energas Boca de Jaruco",
-            "broken": [],
+            "broken": null,
             "maintenance": [1],
             "limitation": 320
         }

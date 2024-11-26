@@ -19,7 +19,7 @@
         {
             "ID": "CTE Antonio Maceo",
             "broken": [5],
-            "maintenance": [],
+            "maintenance": null,
             "limitation":95
         },
         {

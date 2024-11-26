@@ -19,7 +19,7 @@
         {
             "ID": "CTE Antonio Maceo",
             "broken": [5],
-            "maintenance": [],
+            "maintenance": null,
             "limitation":95
         },
         {
@@ -36,7 +36,7 @@
         },
         {
             "ID": "Energas Boca de Jaruco",
-            "broken": [],
+            "broken": null,
             "maintenance": [1],
             "limitation": 320
         }
